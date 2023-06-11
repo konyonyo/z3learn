@@ -5,16 +5,16 @@
 
 # セットに含まれるタイル
 
-![セットに含まれるタイル](/images/tiles.jpg)
+![セットに含まれるタイル](./images/tiles.jpg)
 
 # タイルの配置
 
 以下のようにタイルを配置したい。
 
-![タイルの配置](/images/tile_disposition.jpg)
+![タイルの配置](./images/tile_disposition.jpg)
 
 # 配置の制約
 
 以下の制約の元で配置したい。
 
-![配置の制約](/images/tile_restriction.jpg)
+![配置の制約](./images/tile_restriction.jpg)
